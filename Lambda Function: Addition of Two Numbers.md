@@ -17,5 +17,7 @@ f = lambda a, b,c: a+b+c
 print(f(i, j,z))
 ```
 ## Output
+<img width="439" height="343" alt="image" src="https://github.com/user-attachments/assets/e477947e-14f1-484a-b2bc-bd3048a30681" />
 
 ## Result
+Thus,the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
